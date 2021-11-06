@@ -1,0 +1,19 @@
+{
+  "name": "@tomitheninja/elections-server",
+  "version": "0.0.1",
+  "description": "Backend for my elections app",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomitheninja/elections.git"
+  },
+  "author": "tomitheninja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomitheninja/elections/issues"
+  },
+  "homepage": "https://github.com/tomitheninja/elections#readme"
+}
